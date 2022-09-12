@@ -1,5 +1,5 @@
-<image align="center" src="https://media-exp1.licdn.com/dms/image/C4D16AQFujbKLd8CZoA/profile-displaybackgroundimage-shrink_200_800/0/1662847279795?e=1668643200&v=beta&t=WqQyc6tc1bOfI3zZ4e980q9JyhKwFR-dq1GgaDOsz8Y" alt="Banner Readme GitHub">
-
+<image align="center" src="https://i.ibb.co/KhrC5BQ/GITHUB.png" alt="Banner Readme GitHub">
+  
 <h1 align="center"> ~ Hi 👋, I'm Matias Nicolas Acevedo ~ </h1>
 <h3 align="center"> ~ Alumno en BootCamp [ Java Developer ] - [ Digit@lers ] - [ EducaciónIT ] - [ Telecom ] ~ </h3>
 
