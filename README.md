@@ -50,4 +50,4 @@
 
 </p>
 
-
+<h6 align="center"> Todos los derechos reservados © 2022. </h6>
