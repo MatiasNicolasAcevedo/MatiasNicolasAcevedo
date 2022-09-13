@@ -8,23 +8,27 @@
 
 <dl>
 
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Actualmente me encuentro en la búsqueda de una oportunidad laboral en el mundo IT, java developer trainee - junior.
+<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Actualmente me encuentro en la búsqueda de una oportunidad laboral en el mundo IT,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; java developer trainee - junior.
 
 <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Me defino como una persona divertida, ordenada, dedicada y responsable.
 
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Me gusta trabajar en equipo, me pongo rápidamente en acción cuando hay que organizar algo, suelo ofrecer soluciones cuando alguien tiene un problema.
+<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Me gusta trabajar en equipo, me pongo rápidamente en acción cuando hay que organizar algo,<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; suelo ofrecer soluciones cuando alguien tiene un problema.
 
 <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Me dediqué toda mi vida al rubro [ Comerciante - Atención al Cliente - Vendedor ].
 
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Hice una formación a través de un programa con Telecom y EducaciónIT, no tengo experiencias laborales acordes, pero mí interés es insertarme en el mercado.
+<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Hice una formación a través de un programa con Telecom y EducaciónIT ➪ <a href="https://digitalers.com.ar/index.html" target="blank"><img align="center" src="https://i.ibb.co/cDw9FNJ/digit.png" alt="matiasnicolasacevedo" width="100" height="25"/></a>,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; no tengo experiencias laborales acordes, pero mí interés es insertarme en el mercado.
+
 
 <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Cuento con orientación a resultados, capacidad analítica, interés por el aprendizaje constante.
 
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Me gusta la programación y la tecnología, salir a correr, juntarme con mis amigos , las montañas, el fútbol , los perros, la cerveza artesanal, el olor a tierra mojada, aprender Inglés.
+<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Me gusta la programación y la tecnología, salir a correr, juntarme con mis amigos , las montañas,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; los snacks salados, el fútbol , los perros, la cerveza artesanal, el olor a tierra mojada, aprender Inglés.
 
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Te invito a <a href="https://linkedin.com/in/matiasnicolasacevedo" target="blank"><img align="center" src="https://i.ibb.co/KFv7PCv/Sin-t-tulo.png" alt="matiasnicolasacevedo" width="75" height="30"/></a> conmigo, me gustaría formar parte de tu red, estimo que un nuevo contacto  permitirá ampliar aspectos de mi perfil que resulten de interés.
-
-
+<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Te invito a <a href="https://linkedin.com/in/matiasnicolasacevedo" target="blank"><img align="center" src="https://i.ibb.co/KFv7PCv/Sin-t-tulo.png" alt="matiasnicolasacevedo" width="75" height="30"/></a> conmigo, me gustaría formar parte de tu red, estimo que un nuevo contacto<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; permitirá ampliar aspectos de mi perfil que resulten de interés.
 
 </dl>
         
