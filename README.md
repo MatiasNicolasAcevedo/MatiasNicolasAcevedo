@@ -4,7 +4,7 @@
 
 <h3 align="center"> ◈ Alumno en BootCamp [ Java Developer ] - [ Digit@lers ] - [ EducaciónIT ] - [ Telecom ] ◈ </h3>
 <br>
-<h3 align="left">✔ Acerca de mí:</h3>
+<h3 align="left">✔ Acerca de Mí:</h3>
 
 <dl>
 
