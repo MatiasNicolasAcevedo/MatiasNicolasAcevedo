@@ -18,7 +18,7 @@
 
 <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Me dediqué toda mi vida al rubro [ Comerciante - Atención al Cliente - Vendedor ].
 
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Hice una formación a través de un programa con Telecom y EducaciónIT ➪ <a href="https://digitalers.com.ar/index.html" target="blank"><img align="center" src="https://i.ibb.co/cDw9FNJ/digit.png" alt="matiasnicolasacevedo" width="100" height="25"/></a>,<br>
+<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Hice una formación a través de un programa con Telecom y EducaciónIT ➪ <a href="https://digitalers.com.ar/index.html" target="blank"><img align="center" src="https://i.ibb.co/cDw9FNJ/digit.png" alt="matiasnicolasacevedo" width="100" height="25"/></a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; no tengo experiencias laborales acordes, pero mí interés es insertarme en el mercado.
 
 
