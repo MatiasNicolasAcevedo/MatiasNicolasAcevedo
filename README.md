@@ -2,7 +2,6 @@
   
 <h1 align="center"> ◽ Hi 👋, I'm Matias Nicolas Acevedo ◽ </h1>
 
-<h3 align="center"> ◈ Alumno en BootCamp [ Java Developer ] - [ Digit@lers ] - [ EducaciónIT ] - [ Telecom ] ◈ </h3>
 <br>
 <h3 align="left">✔ Acerca de Mí:</h3>
 
