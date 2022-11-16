@@ -26,10 +26,6 @@
 
 <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Me gusta la programación y la tecnología, salir a correr, juntarme con mis amigos , las montañas,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; los snacks salados, el fútbol , los perros, la cerveza artesanal, el olor a tierra mojada, aprender Inglés.
-
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Te invito a <a href="https://linkedin.com/in/matiasnicolasacevedo" target="blank"><img align="center" src="https://i.ibb.co/KFv7PCv/Sin-t-tulo.png" alt="matiasnicolasacevedo" width="75" height="30"/></a> conmigo, me gustaría formar parte de tu red, estimo que un nuevo contacto<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; permitirá ampliar aspectos de mi perfil que resulten de interés.
-
 </dl>
         
 <br>
