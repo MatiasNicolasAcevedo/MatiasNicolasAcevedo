@@ -33,19 +33,19 @@
 
 <dl>
 
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Digit@lers: Bootcamp Java Developer | 130 horas.<a href="https://drive.google.com/file/d/1J-iAigRq1-FioliZx384i-yejD61MyhT/view?usp=sharing" target="blank"> [ Link ]</a>
+<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Digit@lers: Bootcamp Java Developer | 130 horas. <a href="https://drive.google.com/file/d/1J-iAigRq1-FioliZx384i-yejD61MyhT/view?usp=sharing" target="blank">[ Link ]</a>
 
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Egg: Programación desde Cero | 81 horas.<a href="https://drive.google.com/file/d/1NtfgCBKXBLNPr-Z0YEjBzxip8wmKJT_L/view?usp=sharing" target="blank"> [ Link ]</a>
+<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Egg: Programación desde Cero | 81 horas. <a href="https://drive.google.com/file/d/1NtfgCBKXBLNPr-Z0YEjBzxip8wmKJT_L/view?usp=sharing" target="blank">[ Link ]</a>
 
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Oracle-Alura: Desarrollo Personal G5-ONE | 35 horas.<a href="https://drive.google.com/file/d/1WHUa1fqg5P0qPL_2RjGbnChtOUrkIEch/view?usp=sharing" target="blank"> [ Link ]</a>
+<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Oracle-Alura: Desarrollo Personal G5-ONE | 35 horas. <a href="https://drive.google.com/file/d/1WHUa1fqg5P0qPL_2RjGbnChtOUrkIEch/view?usp=sharing" target="blank">[ Link ]</a>
 
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Argentina Programa 4.0: Desarrollador Java Inicial.<a href="https://drive.google.com/file/d/1mjhZXtT2bP0R8NrY6eV10X4aTLs2Z4tm/view?usp=sharing" target="blank"> [ Link ]</a>
+<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Argentina Programa 4.0: Desarrollador Java Inicial. <a href="https://drive.google.com/file/d/1mjhZXtT2bP0R8NrY6eV10X4aTLs2Z4tm/view?usp=sharing" target="blank">[ Link ]</a>
 
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Oracle-Alura: Principiante en Programación G5-ONE | 75 horas.<a href="https://drive.google.com/file/d/17deeW3dWE8EtcCy7R4kqQ-DTv2HB7Xq0/view?usp=sharing" target="blank"> [ Link ]</a>
+<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Oracle-Alura: Principiante en Programación G5-ONE | 75 horas. <a href="https://drive.google.com/file/d/17deeW3dWE8EtcCy7R4kqQ-DTv2HB7Xq0/view?usp=sharing" target="blank">[ Link ]</a>
 
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 EDteam: CSS desde Cero | 9 horas.<a href="https://drive.google.com/file/d/15NnEzpFWEYLD7D7Vxu4hNxL6Wlmk5vsn/view?usp=sharing" target="blank"> [ Link ]</a>
+<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 EDteam: CSS desde Cero | 9 horas. <a href="https://drive.google.com/file/d/15NnEzpFWEYLD7D7Vxu4hNxL6Wlmk5vsn/view?usp=sharing" target="blank">[ Link ]</a>
 
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 CBA Me Capacita: Inglés Inicial | 12 horas.<a href="https://drive.google.com/file/d/1aoX51hJyXLEMPO3xkxdWZY8JL1JdVvt2/view?usp=sharing" target="blank"> [ Link ]</a>
+<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 CBA Me Capacita: Inglés Inicial | 12 horas. <a href="https://drive.google.com/file/d/1aoX51hJyXLEMPO3xkxdWZY8JL1JdVvt2/view?usp=sharing" target="blank">[ Link ]</a>
 
 </dl>
 
