@@ -63,8 +63,6 @@
 
 <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Argentina Programa 4.0: Desarrollador Java Intermedio. <a href="https://www.argentina.gob.ar/economia/conocimiento/argentina-programa" target="blank">[ Link ]</a>
 
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Platzi: Ruta Backend con Java. <a href="https://platzi.com/" target="blank">[ Link ]</a>
-
 </dl>
         
 <br>
