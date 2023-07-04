@@ -54,14 +54,16 @@
 <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 CBA Me Capacita: Introducción a
 Excel | 8 horas. <a href="https://drive.google.com/file/d/1yMo4u2CssBFoVNDXG9pGhZ_R39hg5qEK/view?usp=sharing" target="blank">[ Link Certificado ]</a>
 
+<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Código Facilito: Curso profesional de
+Git | 3 horas. <a href="https://drive.google.com/file/d/1LyD5g1Wy8UY3UMAgCQYNuw2ECFiYyC83/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+
+<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Código Facilito: Curso de Patrones de Diseño con JAVA | 4 horas. <a href="https://drive.google.com/file/d/1VtXNAXBaDo-D5quDP51nDsKe48Sq43ae/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+
+<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Código Facilito: Curso de Java EE | 3 horas. <a href="https://drive.google.com/file/d/1tcj3JqVRrlcNajia43__wkbFsR__W58u/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+
+<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Código Facilito: Curso de programación funcional en Java | 2 horas. <a href="https://drive.google.com/file/d/1xK5OVq3Pu2RM6jwJypvl-qJ0hJDBsBgQ/view?usp=sharing" target="blank">[ Link Certificado ]</a>
 
 
-
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 CBA Me Capacita: Inglés Inicial | 12 horas. <a href="https://drive.google.com/file/d/1aoX51hJyXLEMPO3xkxdWZY8JL1JdVvt2/view?usp=sharing" target="blank">[ Link Certificado ]</a>
-
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 CBA Me Capacita: Inglés Inicial | 12 horas. <a href="https://drive.google.com/file/d/1aoX51hJyXLEMPO3xkxdWZY8JL1JdVvt2/view?usp=sharing" target="blank">[ Link Certificado ]</a>
-
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 CBA Me Capacita: Inglés Inicial | 12 horas. <a href="https://drive.google.com/file/d/1aoX51hJyXLEMPO3xkxdWZY8JL1JdVvt2/view?usp=sharing" target="blank">[ Link Certificado ]</a>
 
 <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 CBA Me Capacita: Inglés Inicial | 12 horas. <a href="https://drive.google.com/file/d/1aoX51hJyXLEMPO3xkxdWZY8JL1JdVvt2/view?usp=sharing" target="blank">[ Link Certificado ]</a>
 
