@@ -29,7 +29,7 @@
 
 <br>
 
-<h3 align="left">✔ Cursos Realizados:</h3>
+<h3 align="left">✔ Certificados:</h3>
 
 <dl>
 
@@ -63,15 +63,22 @@ Git | 3 horas. <a href="https://drive.google.com/file/d/1LyD5g1Wy8UY3UMAgCQYNuw2
 
 <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Código Facilito: Curso de programación funcional en Java | 2 horas. <a href="https://drive.google.com/file/d/1xK5OVq3Pu2RM6jwJypvl-qJ0hJDBsBgQ/view?usp=sharing" target="blank">[ Link Certificado ]</a>
 
+<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Código Facilito: Curso de Estructuras
+de Datos con JAVA | 4 horas. <a href="https://drive.google.com/file/d/1PdfgjgnJVOVSKXX5Ypnq1hhA47GnsXp8/view?usp=sharing" target="blank">[ Link Certificado ]</a>
 
+<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 EDteam: Testing con Java: JUnit, Mockito y Cucumber | 6 horas. <a href="https://drive.google.com/file/d/1jyaa1sXklT8Anu-l2WNs-Z_CTgv4L7kZ/view?usp=sharing" target="blank">[ Link Certificado ]</a>
 
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 CBA Me Capacita: Inglés Inicial | 12 horas. <a href="https://drive.google.com/file/d/1aoX51hJyXLEMPO3xkxdWZY8JL1JdVvt2/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Código Facilito: Curso Profesional de
+Base de Datos | 5 horas. <a href="https://drive.google.com/file/d/1rcUsq81wK_7IN6PW1TsbnDH5p5R2ATZ_/view?usp=sharing" target="blank">[ Link Certificado ]</a>
 
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 CBA Me Capacita: Inglés Inicial | 12 horas. <a href="https://drive.google.com/file/d/1aoX51hJyXLEMPO3xkxdWZY8JL1JdVvt2/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Código Facilito: Curso Profesional de
+JAVA | 6 horas. <a href="https://drive.google.com/file/d/1EZvsWtQJWQpplYQ-tKDCjTsxTdh2lA-5/view?usp=sharing" target="blank">[ Link Certificado ]</a>
 
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 CBA Me Capacita: Inglés Inicial | 12 horas. <a href="https://drive.google.com/file/d/1aoX51hJyXLEMPO3xkxdWZY8JL1JdVvt2/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 TodoCode: Introducción a las Bases de Datos Relacionales. <a href="https://drive.google.com/file/d/1W1MnmBgF5zZh6Mtob3wjrfS86-S8eY4s/view?usp=sharing" target="blank">[ Link Certificado ]</a>
 
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 CBA Me Capacita: Inglés Inicial | 12 horas. <a href="https://drive.google.com/file/d/1aoX51hJyXLEMPO3xkxdWZY8JL1JdVvt2/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 TodoCode: Java para Principiantes. <a href="https://drive.google.com/file/d/1MNEvxDJ6ogl3bkKlhAqR1EnygXoQfGVV/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+
+<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Educación IT: Curso Introducción al lenguaje de Programación | 12 horas. <a href="https://drive.google.com/file/d/1kNxAqNME2Q5giBSNlDvyDifI59RCiUgj/view?usp=sharing" target="blank">[ Link Certificado ]</a>
 
 
 </dl>
@@ -88,7 +95,7 @@ Git | 3 horas. <a href="https://drive.google.com/file/d/1LyD5g1Wy8UY3UMAgCQYNuw2
 
 <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Oracle-Alura: Especialización Back-End Java Developer. <a href="https://www.oracle.com/ar/education/oracle-next-education/" target="blank">[ Link ]</a>
 
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Argentina Programa 4.0: Desarrollador Java Intermedio. <a href="https://www.argentina.gob.ar/economia/conocimiento/argentina-programa" target="blank">[ Link ]</a>
+<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Platzi: Ruta Backend con Java. <a href="https://www.argentina.gob.ar/economia/conocimiento/argentina-programa" target="blank">[ Link ]</a>
 
 </dl>
         
