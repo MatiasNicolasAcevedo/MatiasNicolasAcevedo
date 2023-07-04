@@ -49,6 +49,13 @@
 
 <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Agencia Conectividad Córdoba : Soy Digital | 8 horas. <a href="https://drive.google.com/file/d/1GRpLB7xjkLrgYQa9jveYMZHzZjxeul0L/view?usp=sharing" target="blank">[ Link Certificado ]</a>
 
+<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Agencia Conectividad Córdoba : Seguridad en Línea | 10 horas. <a href="https://drive.google.com/file/d/1k2moNFhnbkZwrv2cCte4oSg-AN8euJtU/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+
+<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 CBA Me Capacita: Introducción a
+Excel | 8 horas. <a href="https://drive.google.com/file/d/1yMo4u2CssBFoVNDXG9pGhZ_R39hg5qEK/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+
+
+
 
 <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 CBA Me Capacita: Inglés Inicial | 12 horas. <a href="https://drive.google.com/file/d/1aoX51hJyXLEMPO3xkxdWZY8JL1JdVvt2/view?usp=sharing" target="blank">[ Link Certificado ]</a>
 
