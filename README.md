@@ -95,7 +95,7 @@ JAVA | 6 horas. <a href="https://drive.google.com/file/d/1EZvsWtQJWQpplYQ-tKDCjT
 
 <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Oracle-Alura: Especialización Back-End Java Developer. <a href="https://www.oracle.com/ar/education/oracle-next-education/" target="blank">[ Link ]</a>
 
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Platzi: Ruta Backend con Java. <a href="https://www.argentina.gob.ar/economia/conocimiento/argentina-programa" target="blank">[ Link ]</a>
+<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Platzi: Ruta Backend con Java. <a href="https://platzi.com/" target="blank">[ Link ]</a>
 
 </dl>
         
