@@ -58,82 +58,89 @@
     🔸 Argentina Programa 4.0: Desarrollador Java Inicial. 
     <a href="https://drive.google.com/file/d/1mjhZXtT2bP0R8NrY6eV10X4aTLs2Z4tm/view?usp=sharing" target="blank">[ Link Certificado ]</a>
   </dd>
-
-<dd>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Oracle-Alura: Principiante en Programación G5-ONE | 75 horas. <a href="https://drive.google.com/file/d/17deeW3dWE8EtcCy7R4kqQ-DTv2HB7Xq0/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Oracle-Alura: Principiante en Programación G5-ONE | 75 horas. 
+    <a href="https://drive.google.com/file/d/17deeW3dWE8EtcCy7R4kqQ-DTv2HB7Xq0/view?usp=sharing" target="blank">[ Link Certificado ]</a>
   </dd>
-
-<dd>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 EDteam: CSS desde Cero | 9 horas. <a href="https://drive.google.com/file/d/15NnEzpFWEYLD7D7Vxu4hNxL6Wlmk5vsn/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 EDteam: CSS desde Cero | 9 horas. 
+    <a href="https://drive.google.com/file/d/15NnEzpFWEYLD7D7Vxu4hNxL6Wlmk5vsn/view?usp=sharing" target="blank">[ Link Certificado ]</a>
   </dd>
-
-<dd>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 CBA Me Capacita: Inglés Inicial | 12 horas. <a href="https://drive.google.com/file/d/1aoX51hJyXLEMPO3xkxdWZY8JL1JdVvt2/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 CBA Me Capacita: Inglés Inicial | 12 horas. 
+    <a href="https://drive.google.com/file/d/1aoX51hJyXLEMPO3xkxdWZY8JL1JdVvt2/view?usp=sharing" target="blank">[ Link Certificado ]</a>
   </dd>
-
-<dd>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Agencia Conectividad Córdoba : Soy Digital | 8 horas. <a href="https://drive.google.com/file/d/1GRpLB7xjkLrgYQa9jveYMZHzZjxeul0L/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Agencia Conectividad Córdoba : Soy Digital | 8 horas. 
+    <a href="https://drive.google.com/file/d/1GRpLB7xjkLrgYQa9jveYMZHzZjxeul0L/view?usp=sharing" target="blank">[ Link Certificado ]</a>
   </dd>
-
-<dd>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Agencia Conectividad Córdoba : Seguridad en Línea | 10 horas. <a href="https://drive.google.com/file/d/1k2moNFhnbkZwrv2cCte4oSg-AN8euJtU/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Agencia Conectividad Córdoba : Seguridad en Línea | 10 horas. 
+    <a href="https://drive.google.com/file/d/1k2moNFhnbkZwrv2cCte4oSg-AN8euJtU/view?usp=sharing" target="blank">[ Link Certificado ]</a>
   </dd>
-
-<dd>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 CBA Me Capacita: Introducción a
-Excel | 8 horas. <a href="https://drive.google.com/file/d/1yMo4u2CssBFoVNDXG9pGhZ_R39hg5qEK/view?usp=sharing" target="blank">[ Link Certificado ]</a>
-</dd>
-
-<dd>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Código Facilito: Curso profesional de
-Git | 3 horas. <a href="https://drive.google.com/file/d/1LyD5g1Wy8UY3UMAgCQYNuw2ECFiYyC83/view?usp=sharing" target="blank">[ Link Certificado ]</a>
-</dd>
-
-<dd>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Código Facilito: Curso de Patrones de Diseño con JAVA | 4 horas. <a href="https://drive.google.com/file/d/1VtXNAXBaDo-D5quDP51nDsKe48Sq43ae/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 CBA Me Capacita: Introducción a Excel | 8 horas. 
+    <a href="https://drive.google.com/file/d/1yMo4u2CssBFoVNDXG9pGhZ_R39hg5qEK/view?usp=sharing" target="blank">[ Link Certificado ]</a>
   </dd>
-
-<dd>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Código Facilito: Curso de Estructuras
-de Datos con JAVA | 4 horas. <a href="https://drive.google.com/file/d/1PdfgjgnJVOVSKXX5Ypnq1hhA47GnsXp8/view?usp=sharing" target="blank">[ Link Certificado ]</a>
-</dd>
-
-<dd>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 EDteam: Testing con Java: JUnit, Mockito y Cucumber | 6 horas. <a href="https://drive.google.com/file/d/1jyaa1sXklT8Anu-l2WNs-Z_CTgv4L7kZ/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Código Facilito: Curso profesional de Git | 3 horas. 
+    <a href="https://drive.google.com/file/d/1LyD5g1Wy8UY3UMAgCQYNuw2ECFiYyC83/view?usp=sharing" target="blank">[ Link Certificado ]</a>
   </dd>
-
-<dd>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Código Facilito: Curso Profesional de
-Base de Datos | 5 horas. <a href="https://drive.google.com/file/d/1rcUsq81wK_7IN6PW1TsbnDH5p5R2ATZ_/view?usp=sharing" target="blank">[ Link Certificado ]</a>
-</dd>
-
-<dd>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Código Facilito: Curso Profesional de
-JAVA | 6 horas. <a href="https://drive.google.com/file/d/1EZvsWtQJWQpplYQ-tKDCjTsxTdh2lA-5/view?usp=sharing" target="blank">[ Link Certificado ]</a>
-</dd>
-
-<dd>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 TodoCode: Introducción a las Bases de Datos Relacionales. <a href="https://drive.google.com/file/d/1W1MnmBgF5zZh6Mtob3wjrfS86-S8eY4s/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Código Facilito: Curso de Patrones de Diseño con JAVA | 4 horas. 
+    <a href="https://drive.google.com/file/d/1VtXNAXBaDo-D5quDP51nDsKe48Sq43ae/view?usp=sharing" target="blank">[ Link Certificado ]</a>
   </dd>
-
-<dd>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 TodoCode: Java para Principiantes. <a href="https://drive.google.com/file/d/1MNEvxDJ6ogl3bkKlhAqR1EnygXoQfGVV/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Código Facilito: Curso de Estructuras de Datos con JAVA | 4 horas. 
+    <a href="https://drive.google.com/file/d/1PdfgjgnJVOVSKXX5Ypnq1hhA47GnsXp8/view?usp=sharing" target="blank">[ Link Certificado ]</a>
   </dd>
-
-<dd>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Educación IT: Curso Introducción al lenguaje de Programación | 12 horas. <a href="https://drive.google.com/file/d/1kNxAqNME2Q5giBSNlDvyDifI59RCiUgj/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 EDteam: Testing con Java: JUnit, Mockito y Cucumber | 6 horas. 
+    <a href="https://drive.google.com/file/d/1jyaa1sXklT8Anu-l2WNs-Z_CTgv4L7kZ/view?usp=sharing" target="blank">[ Link Certificado ]</a>
   </dd>
-
-<dd>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Platzi: Curso Profesional de Git y Github | 22 horas. <a href="https://drive.google.com/file/d/1D1N2CJ82o7QMd82-JSSiPSgGQGTu_IEC/view?usp=sharing" target="blank">[ Link Certificado ]</a>
-</dd>
-
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Código Facilito: Curso Profesional de Base de Datos | 5 horas. 
+    <a href="https://drive.google.com/file/d/1rcUsq81wK_7IN6PW1TsbnDH5p5R2ATZ_/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+  </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Código Facilito: Curso Profesional de JAVA | 6 horas. 
+    <a href="https://drive.google.com/file/d/1EZvsWtQJWQpplYQ-tKDCjTsxTdh2lA-5/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+  </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 TodoCode: Introducción a las Bases de Datos Relacionales. 
+    <a href="https://drive.google.com/file/d/1W1MnmBgF5zZh6Mtob3wjrfS86-S8eY4s/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+  </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 TodoCode: Java para Principiantes. 
+    <a href="https://drive.google.com/file/d/1MNEvxDJ6ogl3bkKlhAqR1EnygXoQfGVV/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+  </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Educación IT: Curso Introducción al lenguaje de Programación | 12 horas. 
+    <a href="https://drive.google.com/file/d/1kNxAqNME2Q5giBSNlDvyDifI59RCiUgj/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+  </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Platzi: Curso Profesional de Git y Github | 22 horas. 
+    <a href="https://drive.google.com/file/d/1D1N2CJ82o7QMd82-JSSiPSgGQGTu_IEC/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+  </dd>
 </dl>
-
 <br>
-
 <h3 align="left">✔ Cursando Actualmente:</h3>
-
 <dl>
 
 <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 ATL Academy: Java Bootcamp 2023. <a href="https://atl.academy/bootcamp/java/" target="blank">[ Link ]</a>
