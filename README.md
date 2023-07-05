@@ -1,27 +1,35 @@
 <image align="center" src="https://i.ibb.co/KhrC5BQ/GITHUB.png" alt="Banner Readme GitHub">
-  
 <h1 align="center"> ◽ Hi 👋, I'm Matias Nicolas Acevedo ◽ </h1>
-
 <br>
 <h3 align="left">✔ Acerca de Mí:</h3>
-
 <dl>
-
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Actualmente me encuentro en la búsqueda de una oportunidad laboral en el mundo IT,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; como java developer trainee - junior.
-
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Me defino como una persona divertida, ordenada, dedicada y responsable.
-
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Me gusta trabajar en equipo, me pongo rápidamente en acción cuando hay que organizar algo,<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; suelo ofrecer soluciones cuando alguien tiene un problema.
-
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Me dediqué toda mi vida al rubro [ Comerciante - Atención al Cliente - Vendedor ].
-
-
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Me gusta la programación y la tecnología, salir a correr, juntarme con mis amigos , las montañas,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; los snacks salados, el fútbol , los perros, la cerveza artesanal, aprender Inglés.
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Actualmente me encuentro en la búsqueda de una oportunidad laboral en el mundo IT,        
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    como java developer trainee - junior.
+  </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Me defino como una persona divertida, ordenada, dedicada y responsable.
+  </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Me gusta trabajar en equipo, me pongo rápidamente en acción cuando hay que organizar algo,
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    suelo ofrecer soluciones cuando alguien tiene un problema.
+  </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    🔸 Me dediqué toda mi vida al rubro [ Comerciante - Atención al Cliente - Vendedor ].
+  </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Me gusta la programación y la tecnología, salir a correr, juntarme con mis amigos , las montañas,
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    los snacks salados, el fútbol , los perros, la cerveza artesanal, aprender Inglés.
+  </dd>
 </dl>
-        
 <br>
 <h3 align="left">✔ Técnologias de Interés:</h3>
 
