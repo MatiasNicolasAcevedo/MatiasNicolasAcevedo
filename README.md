@@ -80,6 +80,7 @@ JAVA | 6 horas. <a href="https://drive.google.com/file/d/1EZvsWtQJWQpplYQ-tKDCjT
 
 <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Educación IT: Curso Introducción al lenguaje de Programación | 12 horas. <a href="https://drive.google.com/file/d/1kNxAqNME2Q5giBSNlDvyDifI59RCiUgj/view?usp=sharing" target="blank">[ Link Certificado ]</a>
 
+<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Platzi: Curso Profesional de Git y Github | 22 horas. <a href="https://drive.google.com/file/d/1D1N2CJ82o7QMd82-JSSiPSgGQGTu_IEC/view?usp=sharing" target="blank">[ Link Certificado ]</a>
 
 </dl>
 
