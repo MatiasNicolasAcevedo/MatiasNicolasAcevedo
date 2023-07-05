@@ -59,10 +59,6 @@ Git | 3 horas. <a href="https://drive.google.com/file/d/1LyD5g1Wy8UY3UMAgCQYNuw2
 
 <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Código Facilito: Curso de Patrones de Diseño con JAVA | 4 horas. <a href="https://drive.google.com/file/d/1VtXNAXBaDo-D5quDP51nDsKe48Sq43ae/view?usp=sharing" target="blank">[ Link Certificado ]</a>
 
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Código Facilito: Curso de Java EE | 3 horas. <a href="https://drive.google.com/file/d/1tcj3JqVRrlcNajia43__wkbFsR__W58u/view?usp=sharing" target="blank">[ Link Certificado ]</a>
-
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Código Facilito: Curso de programación funcional en Java | 2 horas. <a href="https://drive.google.com/file/d/1xK5OVq3Pu2RM6jwJypvl-qJ0hJDBsBgQ/view?usp=sharing" target="blank">[ Link Certificado ]</a>
-
 <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Código Facilito: Curso de Estructuras
 de Datos con JAVA | 4 horas. <a href="https://drive.google.com/file/d/1PdfgjgnJVOVSKXX5Ypnq1hhA47GnsXp8/view?usp=sharing" target="blank">[ Link Certificado ]</a>
 
