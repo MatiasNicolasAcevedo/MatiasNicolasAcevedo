@@ -142,37 +142,51 @@
 <br>
 <h3 align="left">✔ Cursando Actualmente:</h3>
 <dl>
-
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 ATL Academy: Java Bootcamp 2023. <a href="https://atl.academy/bootcamp/java/" target="blank">[ Link ]</a>
-
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Digit@lers: Bootcamp Front End React Developer. <a href="https://institucional.telecom.com.ar/digitalers" target="blank">[ Link ]</a>
-
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Oracle-Alura: Especialización Back-End Java Developer. <a href="https://www.oracle.com/ar/education/oracle-next-education/" target="blank">[ Link ]</a>
-
-<dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Platzi: Ruta Backend con Java. <a href="https://platzi.com/" target="blank">[ Link ]</a>
-
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 ATL Academy: Java Bootcamp 2023. 
+    <a href="https://atl.academy/bootcamp/java/" target="blank">[ Link ]</a>
+  </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    🔸 Digit@lers: Bootcamp Front End React Developer.
+    <a href="https://institucional.telecom.com.ar/digitalers" target="blank">[ Link ]</a>
+  </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    🔸 Oracle-Alura: Especialización Back-End Java Developer. 
+    <a href="https://www.oracle.com/ar/education/oracle-next-education/" target="blank">[ Link ]</a>
+  </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Platzi: Ruta Backend con Java. 
+    <a href="https://platzi.com/" target="blank">[ Link ]</a>
+  </dd>
 </dl>
-        
 <br>
 <h3 align="left">✔ Contáctame:</h3>
-
-<p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:matias.nicolas.acevedo@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="matiasnicolasacevedo" width="100" height="25"/></a>   ➪ matias.nicolas.acevedo@gmail.com
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://linkedin.com/in/matiasnicolasacevedo" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="matiasnicolasacevedo" width="100" height="25" target="blank"/></a> ➪ https://linkedin.com/in/matiasnicolasacevedo
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/MatiasDevelop3r" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="matias__acevedo" width="100" height="25"/></a>  ➪ https://twitter.com/MatiasDevelop3r
-
-</p>
-
+<dl>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="logoGmail"       width="100" height="25"/>
+    <a href="mailto:matias.nicolas.acevedo@gmail.com" target="blank">➪ matias.nicolas.acevedo@gmail.com</a>   
+  </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logoLinkedin" width="100" height="25" target="blank"/>
+    <a href="https://linkedin.com/in/matiasnicolasacevedo" target="blank">➪ https://linkedin.com/in/matiasnicolasacevedo</a>  
+  </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="matias__acevedo" width="100" height="25"/>
+    <a href="https://twitter.com/MatiasDevelop3r" target="blank">➪ https://twitter.com/MatiasDevelop3r</a>  
+  </dd>
+</dl>
 <br>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasNicolasAcevedo&layout=compact&theme=cobalt&hide_border=true" width="36%"/>
    <img src="https://github-readme-stats.vercel.app/api?username=MatiasNicolasAcevedo&show_icons=true&theme=cobalt&hide_border=true" alt="My github stats" width="47%"/> 
 </div>
-
 <div>
   <h6 align="center"> Todos los derechos reservados © 2023. </h6>
 </div>
