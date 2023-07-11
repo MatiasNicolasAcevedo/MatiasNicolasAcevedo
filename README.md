@@ -130,6 +130,11 @@
   </dd>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Agencia Conectividad Córdoba : Futunet | 15 horas. 
+    <a href="https://drive.google.com/file/d/1-e2GtqlOb-XGoU_erajg0ZfntpVhonuX/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+  </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     🔸 Agencia Conectividad Córdoba : Seguridad en Línea | 10 horas. 
     <a href="https://drive.google.com/file/d/1k2moNFhnbkZwrv2cCte4oSg-AN8euJtU/view?usp=sharing" target="blank">[ Link Certificado ]</a>
   </dd>
