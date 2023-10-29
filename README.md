@@ -23,12 +23,6 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     🔸 Me dediqué toda mi vida al rubro [ Comerciante - Atención al Cliente - Vendedor ].
   </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    🔸 Me gusta la programación y la tecnología, salir a correr, juntarme con mis amigos , las montañas,
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    los snacks salados, el fútbol , los perros, la cerveza artesanal, aprender Inglés.
-  </dd>
 </dl>
 <br>
 <h3 align="left">✔ Técnologias de Interés:</h3>
