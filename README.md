@@ -5,23 +5,25 @@
 <dl>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    🔸 Actualmente me encuentro en la búsqueda de una oportunidad laboral en el mundo IT,        
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    como <strong>java developer</strong> trainee - junior.
+    ☑ Tecnologías: HTML | CSS | JavaScript | Bootstrap | React | Java | Spring Boot | Git | MySQL | Postman.        
   </dd>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    🔸 Me defino como una persona divertida, ordenada, dedicada y responsable.
+    ✅ Me defino como una persona divertida, ordenada, dedicada y responsable.
   </dd>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    🔸 Me gusta trabajar en equipo, me pongo rápidamente en acción cuando hay que organizar algo,
+    ✅ Me gusta trabajar en equipo, me pongo rápidamente en acción cuando hay que organizar algo,
     <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     suelo ofrecer soluciones cuando alguien tiene un problema.
   </dd>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    🔸 Me dediqué toda mi vida al rubro [ Comerciante - Atención al Cliente - Vendedor ].
+    ✅ Me dediqué toda mi vida al rubro: Comerciante, Atención al Cliente, Vendedor.
+  </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    ✅ Cuento con orientación a resultados, capacidad analítica, interés por el aprendizaje constante.
   </dd>
 </dl>
 <br>
@@ -34,18 +36,19 @@
 <dl>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 ATL Academy: Java Backend Developer Bootcamp | 240 horas.
+    <a href="https://drive.google.com/file/d/1acpgHpMvv29PuXaq1zRlFDu8BNHEt-yN/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+  </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     🔸 Digit@lers: Bootcamp Java Developer | 130 horas. 
     <a href="https://drive.google.com/file/d/1J-iAigRq1-FioliZx384i-yejD61MyhT/view?usp=sharing" target="blank">[ Link Certificado ]</a>
   </dd>
+  
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    🔸 Código Facilito: Curso Profesional de JAVA | 6 horas. 
-    <a href="https://drive.google.com/file/d/1EZvsWtQJWQpplYQ-tKDCjTsxTdh2lA-5/view?usp=sharing" target="blank">[ Link Certificado ]</a>
-  </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    🔸 TodoCode: Java para Principiantes. 
-    <a href="https://drive.google.com/file/d/1MNEvxDJ6ogl3bkKlhAqR1EnygXoQfGVV/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+    🔸 Oracle Next Education F2 T5 Back-end | 331 horas.
+    <a href="https://app.aluracursos.com/program/certificate/822f7ab7-f6bc-4a8d-9874-35e77bb8fc2c" target="blank">[ Link Certificado ]</a>
   </dd>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
