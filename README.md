@@ -71,7 +71,7 @@
   </dd>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    🔸 Agencia Conectividad Córdoba : Futunet. 
+    🔸 Agencia Conectividad Córdoba : Futunet.
     <a href="https://drive.google.com/file/d/1-e2GtqlOb-XGoU_erajg0ZfntpVhonuX/view?usp=sharing" target="blank">[ Link Certificado ]</a>
   </dd>
   <dd>
@@ -83,6 +83,11 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     🔸 Agencia Conectividad Córdoba : Soy Digital. 
     <a href="https://drive.google.com/file/d/1GRpLB7xjkLrgYQa9jveYMZHzZjxeul0L/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+  </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Otros Certificados.
+    <a href="https://drive.google.com/drive/folders/1Qmj3kPeART_FPpYUuA3h4KV0uHbxzLIg?usp=sharing" target="blank">[ Link ]</a>
   </dd>
 </dl>
 <br>
