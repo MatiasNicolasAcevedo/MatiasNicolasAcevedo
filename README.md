@@ -36,6 +36,16 @@
 <dl>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Telecom Argentina y EducaciónIT: Desarrollo Front End React | 130 horas | Digit@lers. 
+    <a href="https://drive.google.com/file/d/1aoX51hJyXLEMPO3xkxdWZY8JL1JdVvt2/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+  </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Código Facilito: Bootcamp de React. 
+    <a href="https://drive.google.com/file/d/1EheK5RijM6egQPbULRiS35PyqusdS6lW/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+  </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     🔸 ATL Academy: Java Backend Developer Bootcamp | 240 horas.
     <a href="https://drive.google.com/file/d/1acpgHpMvv29PuXaq1zRlFDu8BNHEt-yN/view?usp=sharing" target="blank">[ Link Certificado ]</a>
   </dd>
@@ -51,7 +61,7 @@
   </dd>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    🔸 Digit@lers: Bootcamp Java Developer | 130 horas. 
+    🔸 Telecom Argentina y EducaciónIT: Bootcamp Java Developer | 130 horas | Digit@lers. 
     <a href="https://drive.google.com/file/d/1J-iAigRq1-FioliZx384i-yejD61MyhT/view?usp=sharing" target="blank">[ Link Certificado ]</a>
  </dd>
  <dd>
@@ -59,16 +69,7 @@
     🔸 Platzi: Curso Profesional de Git y Github. 
     <a href="https://drive.google.com/file/d/1D1N2CJ82o7QMd82-JSSiPSgGQGTu_IEC/view?usp=sharing" target="blank">[ Link Certificado ]</a>
   </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    🔸 CBA Me Capacita: Introducción a Excel. 
-    <a href="https://drive.google.com/file/d/1yMo4u2CssBFoVNDXG9pGhZ_R39hg5qEK/view?usp=sharing" target="blank">[ Link Certificado ]</a>
-  </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    🔸 CBA Me Capacita: Inglés Inicial. 
-    <a href="https://drive.google.com/file/d/1aoX51hJyXLEMPO3xkxdWZY8JL1JdVvt2/view?usp=sharing" target="blank">[ Link Certificado ]</a>
-  </dd>
+
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     🔸 Agencia Conectividad Córdoba : Futunet.
