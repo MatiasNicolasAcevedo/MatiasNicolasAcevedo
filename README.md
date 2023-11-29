@@ -37,7 +37,7 @@
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     🔸 Telecom Argentina y EducaciónIT: Desarrollo Front End React | 130 horas | Digit@lers. 
-    <a href="https://drive.google.com/file/d/1aoX51hJyXLEMPO3xkxdWZY8JL1JdVvt2/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+    <a href="https://drive.google.com/file/d/1JpW2Fv_r3yQE0EoBwcJhM8TzHAX4vMqS/view?usp=sharing" target="blank">[ Link Certificado ]</a>
   </dd>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
