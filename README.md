@@ -116,7 +116,7 @@
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logoLinkedin" width="100" height="25" target="blank"/>
-    <a href="https://linkedin.com/in/matiasnicolasacevedo" target="blank"> ➪ https://linkedin.com/in/matiasnicolasacevedo</a>  
+    <a href="https://www.linkedin.com/in/matias-nicolas-acevedo/" target="blank"> ➪ https://www.linkedin.com/in/matias-nicolas-acevedo/</a>  
   </dd>
 </dl>
 <br>
