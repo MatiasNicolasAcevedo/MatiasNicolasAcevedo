@@ -5,7 +5,7 @@
 <dl>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    ☑ Tecnologías: HTML | CSS | JavaScript | Bootstrap | React | Java | Spring Boot | Git | MySQL | Postman.        
+    ☑ Tecnologías: HTML | CSS | JavaScript | Bootstrap | React | Java | Spring Boot | Git | MySQL | Postman | Docker.        
   </dd>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -34,6 +34,21 @@
 <br>
 <h3 align="left">✔ Certificados:</h3>
 <dl>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Código Facilito: Curso Profesional de Docker. 
+    <a href="https://drive.google.com/file/d/124a4hqBsxFWGgu-AADggUQhik75R-ppL/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+  </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 EducaciónIT: Scrum Fundamentos.
+    <a href="https://drive.google.com/file/d/1IblmJh-Vll6Ke9PGeMFdPQFrvGx9W6ys/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+  </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Argentina Programa 4.0: Desarrollador Java Intermedio.
+    <a href="https://drive.google.com/file/d/1TtTQMuxYr4qPwlvy6MKBBfBFKym2qXAG/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+  </dd>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     🔸 Telecom Argentina y EducaciónIT: Desarrollo Front End React | 130 horas | Digit@lers. 
@@ -41,13 +56,13 @@
   </dd>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    🔸 Código Facilito: Bootcamp de React. 
-    <a href="https://drive.google.com/file/d/1EheK5RijM6egQPbULRiS35PyqusdS6lW/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+    🔸 ATL Academy: Java Backend Developer Bootcamp | 240 horas.
+    <a href="https://drive.google.com/file/d/1acpgHpMvv29PuXaq1zRlFDu8BNHEt-yN/view?usp=sharing" target="blank">[ Link Certificado ]</a>
   </dd>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    🔸 ATL Academy: Java Backend Developer Bootcamp | 240 horas.
-    <a href="https://drive.google.com/file/d/1acpgHpMvv29PuXaq1zRlFDu8BNHEt-yN/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+    🔸 Código Facilito: Bootcamp de React. 
+    <a href="https://drive.google.com/file/d/1EheK5RijM6egQPbULRiS35PyqusdS6lW/view?usp=sharing" target="blank">[ Link Certificado ]</a>
   </dd>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -69,7 +84,6 @@
     🔸 Platzi: Curso Profesional de Git y Github. 
     <a href="https://drive.google.com/file/d/1D1N2CJ82o7QMd82-JSSiPSgGQGTu_IEC/view?usp=sharing" target="blank">[ Link Certificado ]</a>
   </dd>
-
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     🔸 Agencia Conectividad Córdoba : Futunet.
@@ -98,11 +112,6 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     🔸 Simulación No Country.
     <a href="https://www.nocountry.tech/" target="blank">[ Link ]</a>
-  </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    🔸 Argentina Programa 4.0: Desarrollador Java Intermedio.
-    <a href="https://www.argentina.gob.ar/economia/conocimiento/argentina-programa" target="blank">[ Link ]</a>
   </dd>
 </dl>
 <br>
