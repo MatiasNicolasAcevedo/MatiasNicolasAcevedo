@@ -71,7 +71,7 @@
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     🔸 Argentina Programa 4.0: Desarrollador Java Intermedio.
-    <a href="https://drive.google.com/file/d/1TtTQMuxYr4qPwlvy6MKBBfBFKym2qXAG/view?usp=sharing" target="blank">[ Link Certificado ]</a>
+    <a href="https://drive.google.com/file/d/1szsfwU2REpAB7VQkRSMJ1jR4LGs01Iqw/view?usp=sharing" target="blank">[ Link Certificado ]</a>
   </dd>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
