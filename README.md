@@ -1,5 +1,5 @@
 <image align="center" src="https://i.ibb.co/KhrC5BQ/GITHUB.png" alt="Banner Readme GitHub">
-<h1 align="center"> ◽ Hi 👋, I'm Matias Nicolas Acevedo ◽ </h1>
+<h1 align="center"> ◽ Hola, Soy Matias Nicolas Acevedo 👋 ◽ </h1>
 <br>
   
 <h3 align="left">✔ Acerca de Mí:</h3>
@@ -142,7 +142,7 @@
 <h3 align="left">✔ Connect with me:</h3>
 <p align="left">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    🔸 <a href="https://linkedin.com/in/https://www.linkedin.com/in/matias-nicolas-acevedo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matias-nicolas-acevedo/" height="30" width="40" /></a>
+    🔸 <a href="https://www.linkedin.com/in/matias-nicolas-acevedo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matias-nicolas-acevedo/" height="30" width="40" /></a>
 </p>
 
 <br>
