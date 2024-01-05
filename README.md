@@ -6,7 +6,7 @@
 <dl>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    ☑ Tecnologías: HTML | CSS | JavaScript | Bootstrap | React | Java | Spring Boot | Git | MySQL | Postman | Docker | Scrum.        
+    ☑ Tecnologías: HTML | CSS | JavaScript | Bootstrap | React | Java | <b>Spring Boot</b> | Git | MySQL | Postman | Docker | Scrum.        
   </dd>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
