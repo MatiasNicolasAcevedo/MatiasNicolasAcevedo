@@ -106,7 +106,7 @@
 <dl>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    🔸 Simulación No Country.
+    🔸 BackEnd Developer | No Country.
     <a href="https://www.nocountry.tech/" target="blank">[ Link ]</a>
   </dd>
 </dl>
