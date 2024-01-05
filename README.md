@@ -28,7 +28,7 @@
   </dd>
 </dl>
 <br>
-<h3 align="left">✔ Certificados:</h3>
+<h3 align="left">✔ Certificaciones:</h3>
 <dl>
    <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
