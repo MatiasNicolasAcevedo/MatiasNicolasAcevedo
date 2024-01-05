@@ -32,74 +32,184 @@
 <dl>
    <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    🔸 Código Facilito: Curso Profesional de Docker. 
-    <a href="https://drive.google.com/file/d/124a4hqBsxFWGgu-AADggUQhik75R-ppL/view?usp=sharing" target="blank">[ Link Certificado ]</a>
-  </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    🔸 EducaciónIT: Scrum Fundamentos.
-    <a href="https://drive.google.com/file/d/1IblmJh-Vll6Ke9PGeMFdPQFrvGx9W6ys/view?usp=sharing" target="blank">[ Link Certificado ]</a>
-  </dd>
-  <dd>
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    🔸 Argentina Programa 4.0: Desarrollador Java Intermedio.
-    <a href="https://drive.google.com/file/d/1szsfwU2REpAB7VQkRSMJ1jR4LGs01Iqw/view?usp=sharing" target="blank">[ Link Certificado ]</a>
-  </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    🔸 Telecom Argentina y EducaciónIT: Desarrollo Front End React | 130 horas | Digit@lers. 
-    <a href="https://drive.google.com/file/d/1JpW2Fv_r3yQE0EoBwcJhM8TzHAX4vMqS/view?usp=sharing" target="blank">[ Link Certificado ]</a>
-  </dd>
-  <dd>
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    🔸 ATL Academy: Java Backend Developer Bootcamp | 240 horas.
-    <a href="https://drive.google.com/file/d/1acpgHpMvv29PuXaq1zRlFDu8BNHEt-yN/view?usp=sharing" target="blank">[ Link Certificado ]</a>
-  </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    🔸 Código Facilito: Bootcamp de React. 
-    <a href="https://drive.google.com/file/d/1EheK5RijM6egQPbULRiS35PyqusdS6lW/view?usp=sharing" target="blank">[ Link Certificado ]</a>
-  </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    🔸 Oracle Next Education F2 T5 Back-end | 331 horas.
-    <a href="https://app.aluracursos.com/program/certificate/822f7ab7-f6bc-4a8d-9874-35e77bb8fc2c" target="blank">[ Link Certificado ]</a>
-  </dd>
-  <dd>
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    🔸 Egg: Programación desde Cero | 81 horas. 
-    <a href="https://drive.google.com/file/d/1NtfgCBKXBLNPr-Z0YEjBzxip8wmKJT_L/view?usp=sharing" target="blank">[ Link Certificado ]</a>
-  </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    🔸 Telecom Argentina y EducaciónIT: Bootcamp Java Developer | 130 horas | Digit@lers. 
-    <a href="https://drive.google.com/file/d/1J-iAigRq1-FioliZx384i-yejD61MyhT/view?usp=sharing" target="blank">[ Link Certificado ]</a>
- </dd>
- <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    🔸 Platzi: Curso Profesional de Git y Github. 
-    <a href="https://drive.google.com/file/d/1D1N2CJ82o7QMd82-JSSiPSgGQGTu_IEC/view?usp=sharing" target="blank">[ Link Certificado ]</a>
-  </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    🔸 Agencia Conectividad Córdoba : Futunet.
-    <a href="https://drive.google.com/file/d/1-e2GtqlOb-XGoU_erajg0ZfntpVhonuX/view?usp=sharing" target="blank">[ Link Certificado ]</a>
-  </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    🔸 Agencia Conectividad Córdoba : Seguridad en Línea. 
-    <a href="https://drive.google.com/file/d/1k2moNFhnbkZwrv2cCte4oSg-AN8euJtU/view?usp=sharing" target="blank">[ Link Certificado ]</a>
-  </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    🔸 Agencia Conectividad Córdoba : Soy Digital. 
-    <a href="https://drive.google.com/file/d/1GRpLB7xjkLrgYQa9jveYMZHzZjxeul0L/view?usp=sharing" target="blank">[ Link Certificado ]</a>
-  </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    🔸 Otros Certificados.
-    <a href="https://drive.google.com/drive/folders/1Qmj3kPeART_FPpYUuA3h4KV0uHbxzLIg?usp=sharing" target="blank">[ Link ]</a>
-  </dd>
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 Nombre Empresa: Certificado. 
+    <a href="" target="blank">[ Link Certificado ]</a>
+   </dd>
 </dl>
 <br>
 <h3 align="left">✔ Actualmente:</h3>
