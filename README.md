@@ -33,22 +33,22 @@
    <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     🔸 <b>Agencia Conectividad Córdoba</b> - Futunet. 
-    <a href="https://drive.google.com/file/d/1u-AmZTf2gCgwGOHrM_AUscSOXEQFNYd0/view?usp=drive_link" target="blank">[ Link Certificado ]</a>
+    <a href="https://drive.google.com/file/d/1u-AmZTf2gCgwGOHrM_AUscSOXEQFNYd0/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
    </dd>
    <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     🔸 <b>Agencia Conectividad Córdoba</b> - Introducción a la Economía Digital,. 
-    <a href="https://drive.google.com/file/d/17QIrL4XO6V-96EUvLu-PeNg7CwCffNfy/view?usp=drive_link" target="blank">[ Link Certificado ]</a>
+    <a href="https://drive.google.com/file/d/17QIrL4XO6V-96EUvLu-PeNg7CwCffNfy/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
    </dd>
    <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     🔸 <b>Agencia Conectividad Córdoba</b> - Registro de dominios de internet. 
-    <a href="https://drive.google.com/file/d/1bem5nEOY6iO0mPJGZfu8j6zV_inhwDOD/view?usp=drive_link" target="blank">[ Link Certificado ]</a>
+    <a href="https://drive.google.com/file/d/1bem5nEOY6iO0mPJGZfu8j6zV_inhwDOD/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
    </dd>
    <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     🔸 <b>Agencia Conectividad Córdoba</b> - Seguridad en Línea.
-    <a href="https://drive.google.com/file/d/1uBPyUzyzTn5iTL5cm9zDydvLmfsByFOg/view?usp=drive_link" target="blank">[ Link Certificado ]</a>
+    <a href="https://drive.google.com/file/d/1uBPyUzyzTn5iTL5cm9zDydvLmfsByFOg/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
    </dd>
    <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
