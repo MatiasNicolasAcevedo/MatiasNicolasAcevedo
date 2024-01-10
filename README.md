@@ -187,6 +187,11 @@
    </dd>
    <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 <b>Platzi</b> - Curso de Introducción a Java SE. 
+    <a href="https://drive.google.com/file/d/1RV9vp9EOoqkLqKOnlCkavy3DViJzBn6j/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     🔸 <b>Platzi</b> - Curso Profesional de Git y Github. 
     <a href="https://drive.google.com/file/d/1oBNdn0m9CA1nevcFwpjEJHKpD_rorEv5/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
    </dd>
