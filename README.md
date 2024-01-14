@@ -241,8 +241,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasNicolasAcevedo&layout=compact&theme=cobalt&hide_border=true" width="36%"/>
    <img src="https://github-readme-stats.vercel.app/api?username=MatiasNicolasAcevedo&show_icons=true&theme=cobalt&hide_border=true" alt="My github stats" width="47%"/> 
 </div>
-<div>
-  <h6 align="center"> Todos los derechos reservados © 2024. </h6>
-</div>
 
 
