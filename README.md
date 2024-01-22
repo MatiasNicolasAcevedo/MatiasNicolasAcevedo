@@ -205,6 +205,11 @@
     🔸 <b>Platzi</b> - Prompt Engineering con ChatGPT. 
     <a href="https://drive.google.com/file/d/1tl9Ek_ZPVwPCBLIf163fK2JY-A1l2QRm/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
    </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 <b>Platzi</b> - Curso de Java SE Orientado a Objetos. 
+    <a href="https://drive.google.com/file/d/1RV9vp9EOoqkLqKOnlCkavy3DViJzBn6j/view?usp=sharing" target="_blank">[ Link Certificado ]</a>
+   </dd>
    <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     🔸 <b>TodoCode</b> - Introducción a las Bases de Datos Relacionales. 
