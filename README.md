@@ -208,7 +208,12 @@
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     🔸 <b>Platzi</b> - Curso de Java SE Orientado a Objetos. 
-    <a href="https://drive.google.com/file/d/1RV9vp9EOoqkLqKOnlCkavy3DViJzBn6j/view?usp=sharing" target="_blank">[ Link Certificado ]</a>
+    <a href="https://drive.google.com/file/d/1A6q7tYt9JUWyeuLuRTWuIiFSlC5Cc6to/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 <b>Platzi</b> - Curso de Kotlin Desde Cero. 
+    <a href="https://drive.google.com/file/d/1EzTtr36Ad5hmwnq4-lGcLkTjEfdxJWrB/view?usp=sharing" target="_blank">[ Link Certificado ]</a>
    </dd>
    <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
