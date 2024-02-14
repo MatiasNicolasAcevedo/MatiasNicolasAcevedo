@@ -90,11 +90,7 @@
     🔸 <b>Cba Me Capacita</b> - Introducción a Excel. 
     <a href="https://drive.google.com/file/d/144Y7t0QQXIWHVp2_lHPoZx0DKQpUrmV3/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
    </dd>
-   <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    🔸 <b>Código Facilito</b> - Bootcamp de React. 
-    <a href="https://drive.google.com/file/d/1eK2M3jGK3KHjTN4ot5bGuFEAt65NkGJx/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
-   </dd>
+   
    <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     🔸 <b>Código Facilito</b> - Curso de Accesibilidad. 
@@ -180,11 +176,7 @@
     🔸 <b>Oracle Next Education F2 T5 Back-end</b> - Certificado de Finalización. 
     <a href="https://drive.google.com/file/d/1Smc1oKek2NdJYKxO0Cb53Y5M8xkKaAib/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
    </dd>
-   <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    🔸 <b>Platzi</b> - Aprender en Linéa Efectivamente. 
-    <a href="https://drive.google.com/file/d/173yDD4bjjIkOBQY8ZBIwdLjEnTQii8L4/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
-   </dd>
+   
    <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     🔸 <b>Platzi</b> - Curso de Introducción a Java SE. 
@@ -214,6 +206,17 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     🔸 <b>Platzi</b> - Curso de Kotlin Desde Cero. 
     <a href="https://drive.google.com/file/d/1EzTtr36Ad5hmwnq4-lGcLkTjEfdxJWrB/view?usp=sharing" target="_blank">[ Link Certificado ]</a>
+   </dd>
+
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 <b>Platzi</b> - Curso de Fundamentos de Bases de Datos. 
+    <a href="https://drive.google.com/file/d/13MqutY7EW_GelS7R-2UnR0pGguxwbxNa/view?usp=sharing" target="_blank">[ Link Certificado ]</a>
+   </dd>
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 <b>Platzi</b> - Curso de Postgresql. 
+    <a href="https://drive.google.com/file/d/13sSupCzKEisCjbH3J_LovUi99nnoF4C8/view?usp=sharing" target="_blank">[ Link Certificado ]</a>
    </dd>
    <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
