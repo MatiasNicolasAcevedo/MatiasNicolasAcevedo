@@ -219,11 +219,18 @@
     <a href="https://drive.google.com/file/d/13sSupCzKEisCjbH3J_LovUi99nnoF4C8/view?usp=sharing" target="_blank">[ Link Certificado ]</a>
    </dd>
 
-<dd>
+  <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     🔸 <b>Platzi</b> - Java SE_SQL y Bases de Datos.
     <a href="https://drive.google.com/file/d/1lPjk_ZB_7XAcimHhHXmJgYO9CAOp1mGq/view?usp=sharing" target="_blank">[ Link Certificado ]</a>
    </dd>
+
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 <b>Platzi</b> - Curso de Java SE Persistencia de Datos.
+    <a href="https://drive.google.com/file/d/1jHXlxBAWfhJQoz5Dl30Ghl3i-_zahbpL/view?usp=sharing" target="_blank">[ Link Certificado ]</a>
+   </dd>
+   
    
    <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
