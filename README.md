@@ -176,7 +176,11 @@
     🔸 <b>Oracle Next Education F2 T5 Back-end</b> - Certificado de Finalización. 
     <a href="https://drive.google.com/file/d/1Smc1oKek2NdJYKxO0Cb53Y5M8xkKaAib/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
    </dd>
-   
+   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 <b>No Country</b> - BackEnd. 
+    <a href="https://drive.google.com/file/d/1pBP8DDy3YxkhkTrMKPw0NL1bl7m4pzaD/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
+   </dd>
    <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     🔸 <b>Platzi</b> - Curso de Introducción a Java SE. 
