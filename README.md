@@ -234,7 +234,11 @@
     🔸 <b>Platzi</b> - Curso de Java SE Persistencia de Datos.
     <a href="https://drive.google.com/file/d/1jHXlxBAWfhJQoz5Dl30Ghl3i-_zahbpL/view?usp=sharing" target="_blank">[ Link Certificado ]</a>
    </dd>
-   
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    🔸 <b>Platzi</b> - Curso Básico de Testing en Java.
+    <a href="https://drive.google.com/file/d/1Q8kcu8JAn9r4MWmbL1dsrBnAZfy9iuRU/view?usp=sharing" target="_blank">[ Link Certificado ]</a>
+   </dd>
    
    <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
