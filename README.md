@@ -6,7 +6,9 @@
 <dl>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    ☑ Tecnologías: HTML | CSS | JavaScript | Bootstrap | React | Java | <b>Spring Boot</b> | Git | MySQL | Postman | Docker | Scrum.        
+    ☑ Tecnologías - Herramientas:  | Java | Spring Boot | Spring Security | API Rest | JWT | JPA | Hibernate | MySQL | PostgreSQL | 
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         
+    Scrum | Docker | Git | GitHub | Postman | Testing | Swagger | HTML | CSS | JavaScript | Bootstrap | React |
   </dd>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -15,7 +17,7 @@
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     ✅ Me gusta trabajar en equipo, me pongo rápidamente en acción cuando hay que organizar algo,
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     suelo ofrecer soluciones cuando alguien tiene un problema.
   </dd>
   <dd>
@@ -156,7 +158,7 @@
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     🔸 <b>Otras Certificaciones</b> - Lista Completa de Certificados IT.
-    <a href="" target="_blank">[ Link al Drive con Certificados ]</a>
+    <a href="https://drive.google.com/drive/folders/1SD7B7iXG0PmdEYuB5nyuoaCHL2uiuOFa?usp=sharing" target="_blank">[ Link al Drive con Certificados ]</a>
    </dd>
 
 </dl>
