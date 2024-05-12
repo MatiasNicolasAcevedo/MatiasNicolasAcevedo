@@ -54,7 +54,7 @@
    </dd>
    <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    🔸 <b>Digit@lers | Telecom | EducaciónIT</b> - Bootcamp Frontend React Developer - 130 horas. 
+    🔸 <b>Digit@lers | Telecom | EducaciónIT</b> - Bootcamp Frontend React Developer - 130 Horas. 
     <a href="https://drive.google.com/file/d/1NzsJKrIof9RBYm7_RMvBVT5mzpD_KjRh/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
    </dd>
 <dd>
