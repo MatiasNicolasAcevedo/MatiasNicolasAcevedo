@@ -105,33 +105,13 @@
     </dd>
     <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>Platzi</b> - Curso de Introducción a Java SE. 
-        <a href="https://drive.google.com/file/d/1RV9vp9EOoqkLqKOnlCkavy3DViJzBn6j/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
-    </dd>
-    <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         🔸 <b>Platzi</b> - Curso Profesional de Git y Github. 
         <a href="https://drive.google.com/file/d/1oBNdn0m9CA1nevcFwpjEJHKpD_rorEv5/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
     </dd>
     <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>Platzi</b> - Introduccion a la Terminal y Línea de Comandos. 
-        <a href="https://drive.google.com/file/d/1nQNhEYlOQrbRJS5MuSTrmNlEtJiS6cow/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
-    </dd>
-    <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>Platzi</b> - Prompt Engineering con ChatGPT. 
-        <a href="https://drive.google.com/file/d/1tl9Ek_ZPVwPCBLIf163fK2JY-A1l2QRm/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
-    </dd>
-    <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         🔸 <b>Platzi</b> - Curso de Java SE Orientado a Objetos. 
         <a href="https://drive.google.com/file/d/1A6q7tYt9JUWyeuLuRTWuIiFSlC5Cc6to/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
-    </dd>
-    <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>Platzi</b> - Curso de Kotlin Desde Cero. 
-        <a href="https://drive.google.com/file/d/1EzTtr36Ad5hmwnq4-lGcLkTjEfdxJWrB/view?usp=sharing" target="_blank">[ Link Certificado ]</a>
     </dd>
     <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -172,7 +152,7 @@
 <dl>
     <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        🔸 BackEnd Developer | <b>No Country</b>.
+        🔸 BackEnd Developer | Team Lead | <b>No Country</b>.
         <a href="https://www.nocountry.tech/" target="_blank">[ Link ]</a>
     </dd>
 </dl>
