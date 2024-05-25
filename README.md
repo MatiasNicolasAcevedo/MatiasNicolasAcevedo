@@ -35,13 +35,23 @@
 
 <br>
 
-<h3 align="left">✔ Certificaciones:</h3>
+<h3 align="left">✔ Certificaciones Destacadas:</h3>
 
 <dl>
     <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         🔸 <b>No Country</b> - Backend Developer. 
         <a href="https://drive.google.com/file/d/1pBP8DDy3YxkhkTrMKPw0NL1bl7m4pzaD/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
+    </dd>
+   <dd>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+        🔸 <b>Platzi</b> - Desarrollo Backend con Java.
+        <a href="https://drive.google.com/file/d/1JmZml9-Z1girvDX0gOMtL6_qwwPF-hBH/view?usp=sharing" target="_blank">[ Link Certificado ]</a>
+    </dd>
+   <dd>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+        🔸 <b>Platzi</b> - Backend con Java.
+        <a href="https://drive.google.com/file/d/1m497RCji7tQPvK3LMpVEev9WEiko5PDO/view?usp=sharing" target="_blank">[ Link Certificado ]</a>
     </dd>
     <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -70,77 +80,7 @@
     </dd>
     <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>Argentina Programa 4.0</b> - Desarrollador Java Inicial.
-        <a href="https://drive.google.com/file/d/1acSpvx-YqnO_R8fK11MglJ4M4YPLnyqB/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
-    </dd>
-    <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>Argentina Programa 4.0</b> - Desarrollador Java Intermedio.
-        <a href="https://drive.google.com/file/d/1-0uKi_OmKW79VfJ4JDgvhKHjD_ATyToy/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
-    </dd>
-    <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>Código Facilito</b> - Curso Profesional de Docker. 
-        <a href="https://drive.google.com/file/d/1x_sEqz_VLnFPcOQY-Tw_o2x8u9R5EwDQ/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
-    </dd>
-    <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>Código Facilito</b> - Curso Profesional de Git. 
-        <a href="https://drive.google.com/file/d/1am6uv2amvEBo-RUmNQ6viO7Cd8ZQ1-ck/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
-    </dd>
-    <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>Código Facilito</b> - Profesional de Base de Datos. 
-        <a href="https://drive.google.com/file/d/1c5W9zGTwo3JBnewnpuvOHKbatdQ8j2pR/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
-    </dd>
-    <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>Código Facilito</b> - Profesional de Java. 
-        <a href="https://drive.google.com/file/d/1ZlC2X5EJhitNbFVdjm1MTKf-wFiYzDyF/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
-    </dd>
-    <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>Educación IT</b> - Scrum Fundamentos. 
-        <a href="https://drive.google.com/file/d/1npPvvTqVpWVUR4YxXE1AzG1OYvbjWSb6/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
-    </dd>
-    <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>Platzi</b> - Curso Profesional de Git y Github. 
-        <a href="https://drive.google.com/file/d/1oBNdn0m9CA1nevcFwpjEJHKpD_rorEv5/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
-    </dd>
-    <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>Platzi</b> - Curso de Java SE Orientado a Objetos. 
-        <a href="https://drive.google.com/file/d/1A6q7tYt9JUWyeuLuRTWuIiFSlC5Cc6to/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
-    </dd>
-    <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>Platzi</b> - Curso de Fundamentos de Bases de Datos. 
-        <a href="https://drive.google.com/file/d/13MqutY7EW_GelS7R-2UnR0pGguxwbxNa/view?usp=sharing" target="_blank">[ Link Certificado ]</a>
-    </dd>
-    <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>Platzi</b> - Curso de Postgresql. 
-        <a href="https://drive.google.com/file/d/13sSupCzKEisCjbH3J_LovUi99nnoF4C8/view?usp=sharing" target="_blank">[ Link Certificado ]</a>
-    </dd>
-    <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>Platzi</b> - Java SE_SQL y Bases de Datos.
-        <a href="https://drive.google.com/file/d/1lPjk_ZB_7XAcimHhHXmJgYO9CAOp1mGq/view?usp=sharing" target="_blank">[ Link Certificado ]</a>
-    </dd>
-    <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>Platzi</b> - Curso de Java SE Persistencia de Datos.
-        <a href="https://drive.google.com/file/d/1jHXlxBAWfhJQoz5Dl30Ghl3i-_zahbpL/view?usp=sharing" target="_blank">[ Link Certificado ]</a>
-    </dd>
-    <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>Platzi</b> - Curso Básico de Testing en Java.
-        <a href="https://drive.google.com/file/d/1Q8kcu8JAn9r4MWmbL1dsrBnAZfy9iuRU/view?usp=sharing" target="_blank">[ Link Certificado ]</a>
-    </dd>
-    <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>Otras Certificaciones</b> - Lista Completa de 45 Certificados IT.
+        🔸 <b>Otras Certificaciones</b> - Lista Completa de 49 Certificados IT.
         <a href="https://drive.google.com/drive/folders/1SD7B7iXG0PmdEYuB5nyuoaCHL2uiuOFa?usp=sharing" target="_blank">[ Link al Drive con Certificados ]</a>
     </dd>
 </dl>
