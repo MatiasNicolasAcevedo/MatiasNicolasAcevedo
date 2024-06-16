@@ -1,6 +1,6 @@
 <image align="center" src="https://i.imgur.com/c9EhicP.png" alt="Banner Readme GitHub">
 
-<h1 align="center"> ◽ Hola, Soy Matias Nicolas Acevedo 👋 ◽ </h1>
+<h1 align="center"> ◽ Hola, Soy Matias Nicolas Acevedo 👋 </h1>
 
 <br>
   
