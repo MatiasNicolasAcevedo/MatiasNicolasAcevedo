@@ -48,12 +48,7 @@
         🔸 <b>Platzi</b> - Desarrollo Backend con Java.
         <a href="https://drive.google.com/file/d/1JmZml9-Z1girvDX0gOMtL6_qwwPF-hBH/view?usp=sharing" target="_blank">[ Link Certificado ]</a>
     </dd>
-   <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>Platzi</b> - Backend con Java.
-        <a href="https://drive.google.com/file/d/1m497RCji7tQPvK3LMpVEev9WEiko5PDO/view?usp=sharing" target="_blank">[ Link Certificado ]</a>
-    </dd>
-    <dd>
+     <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         🔸 <b>ATL Academy</b> - Java Backend Developer Bootcamp - 240 Horas. 
         <a href="https://drive.google.com/file/d/1gHpErL6syp5mrwA3pqTsnlu5x14PK7nC/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
