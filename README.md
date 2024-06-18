@@ -1,6 +1,6 @@
 <image align="center" src="https://i.imgur.com/c9EhicP.png" alt="Banner Readme GitHub">
 
-<h1 align="center"> ◽ Hola, Soy Matias Nicolas Acevedo 👋 </h1>
+<h1 align="center"> ◽ Hola, Soy Matias Nicolas Acevedo 👋 ◽ </h1>
 
 <br>
   
@@ -9,27 +9,36 @@
 <dl>
     <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        ☑ Tecnologías - Herramientas:  | Java | Spring Boot | Spring Security | API Rest | JWT | JPA | Hibernate | MySQL | PostgreSQL | 
+        🔸 Mis Tecnologías / Habilidades🧠: Java Developer | Backend | Team Lead | Spring Boot | Spring Security | RESTful APIs | 
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        JWT | SQL | OOP| MVC | JPA | Hibernate | Postman | Swagger | Deploy | Testing | JUnit | IntelliJ | Scrum | Agile | Kanban |
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Docker | Git | GitHub | HTML | CSS | Tailwind | JavaScript | React | Frontend 🔸 
         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         
-        Scrum | Docker | Git | GitHub | Postman | Testing | Swagger | HTML | CSS | JavaScript | Bootstrap | React |
     </dd>
     <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        ✅ Me defino como una persona divertida, ordenada, dedicada y responsable.
+        🔹 Busco oportunidades para desarrollar soluciones robustas y escalables con java y spring boot.
     </dd>
     <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        ✅ Me gusta trabajar en equipo, me pongo rápidamente en acción cuando hay que organizar algo,
-        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        suelo ofrecer soluciones cuando alguien tiene un problema.
+        🔹 He liderado equipos multidisciplinarios y multiculturales, creando MVPs exitosos.
     </dd>
     <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        ✅ Me dediqué toda mi vida al rubro: Comerciante, Atención al Cliente, Vendedor.
+        🔹 Mis fortalezas incluyen habilidades técnicas en backend, frontend, liderazgo y resolución de problemas.
     </dd>
     <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        ✅ Cuento con orientación a resultados, capacidad analítica, interés por el aprendizaje constante.
+        🔹 Mi experiencia previa en roles como atención al cliente, comerciante y emprendedor me ha dado una perspectiva única
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        y habilidades interpersonales valiosas.
+    </dd>
+    <dd>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        🔹 Soy ordenado, dedicado, apasionado por la tecnología y disfruto trabajando en equipo para llevar proyectos desde la
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+        concepción hasta la implementación exitosa.
     </dd>
 </dl>
 
@@ -50,32 +59,27 @@
     </dd>
      <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>ATL Academy</b> - Java Backend Developer Bootcamp - 240 Horas. 
+        🔸 <b>ATL Academy</b> - Java Backend Developer Bootcamp. 
         <a href="https://drive.google.com/file/d/1gHpErL6syp5mrwA3pqTsnlu5x14PK7nC/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
     </dd>
     <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>Oracle Next Education F2 T5 Back-end</b> - Certificado de Finalización - 331 Horas. 
+        🔸 <b>Oracle Next Education F2 T5 Back-end</b> - Certificado de Finalización. 
         <a href="https://drive.google.com/file/d/1Smc1oKek2NdJYKxO0Cb53Y5M8xkKaAib/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
     </dd>
     <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>Digit@lers | Telecom | EducaciónIT</b> - Bootcamp Backend Java Developer - 130 Horas. 
+        🔸 <b>Digit@lers | Telecom | EducaciónIT</b> - Bootcamp Backend Java Developer. 
         <a href="https://drive.google.com/file/d/1NjM9Mj6VR6zjgYYPfb3Xn0lbZMc843eo/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
     </dd>
     <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>Digit@lers | Telecom | EducaciónIT</b> - Bootcamp Frontend React Developer - 130 Horas. 
+        🔸 <b>Digit@lers | Telecom | EducaciónIT</b> - Bootcamp Frontend React Developer. 
         <a href="https://drive.google.com/file/d/1NzsJKrIof9RBYm7_RMvBVT5mzpD_KjRh/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
     </dd>
     <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>Egg</b> - Programación desde Cero - 81 Horas. 
-        <a href="https://drive.google.com/file/d/1LA4XjxvN7OZFv61ygOQYi_1tfZMdXcfx/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
-    </dd>
-    <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>Otras Certificaciones</b> - Lista Completa de Certificados IT.
+        🔸 <b>+ Certificaciones</b> - Lista Completa de Certificados IT.
         <a href="https://drive.google.com/drive/folders/1SD7B7iXG0PmdEYuB5nyuoaCHL2uiuOFa?usp=sharing" target="_blank">[ Link al Drive con Certificados ]</a>
     </dd>
 </dl>
@@ -87,7 +91,7 @@
 <dl>
     <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        🔸 BackEnd Developer | Team Lead | <b>No Country</b>.
+        🔸 BackEnd Developer | Team Lead | Frontend | <b>No Country</b>.
         <a href="https://www.nocountry.tech/" target="_blank">[ Link ]</a>
     </dd>
 </dl>
