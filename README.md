@@ -11,7 +11,7 @@
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         🔸 Mis Tecnologías / Habilidades🧠: Java Developer | Backend | Team Lead | Spring Boot | Spring Security | RESTful APIs | 
         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        JWT | SQL | OOP| MVC | JPA | Hibernate | Postman | Swagger | Deploy | Testing | JUnit | IntelliJ | Scrum | Agile | Kanban |
+        JWT | SQL | OOP | MVC | JPA | Hibernate | Postman | Swagger | Deploy | Testing | JUnit | IntelliJ | Scrum | Agile | Kanban |
         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         Docker | Git | GitHub | HTML | CSS | Tailwind | JavaScript | React | Frontend 🔸 
         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         
@@ -26,17 +26,19 @@
     </dd>
     <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        🔹 Mis fortalezas incluyen habilidades técnicas en backend, frontend, liderazgo y resolución de problemas.
+        🔹 Mis fortalezas incluyen habilidades en backend, frontend, liderazgo y resolución de problemas.
     </dd>
     <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        🔹 Mi experiencia previa en roles como atención al cliente, comerciante y emprendedor me ha dado una perspectiva única
+        🔹 Mi experiencia previa en roles de atención al cliente, comerciante y emprendedor me ha otorgado una perspectiva única
         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        y habilidades interpersonales valiosas.
+        y habilidades interpersonales valiosas que aplico diariamente en mi trabajo, facilitando la comunicación efectiva, 
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        la escucha activa y la resolución de conflictos.
     </dd>
     <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        🔹 Soy ordenado, dedicado, apasionado por la tecnología y disfruto trabajando en equipo para llevar proyectos desde la
+        🔹 Soy ordenado, dedicado, apasionado por la tecnología y disfruto el trabajo en equipo para llevar proyectos desde la
         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         concepción hasta la implementación exitosa.
     </dd>
@@ -79,7 +81,7 @@
     </dd>
     <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>+ Certificaciones</b> - Lista Completa de Certificados IT.
+        🔸 <b>+ Certificaciones</b> - Lista Completa de 49 Certificados IT.
         <a href="https://drive.google.com/drive/folders/1SD7B7iXG0PmdEYuB5nyuoaCHL2uiuOFa?usp=sharing" target="_blank">[ Link al Drive con Certificados ]</a>
     </dd>
 </dl>
