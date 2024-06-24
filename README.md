@@ -81,7 +81,7 @@
     </dd>
     <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>+ Certificaciones</b> - Lista Completa de 49 Certificados IT.
+        🔸 <b>+ Certificaciones</b> - Lista Completa +50 Certificados IT.
         <a href="https://drive.google.com/drive/folders/1SD7B7iXG0PmdEYuB5nyuoaCHL2uiuOFa?usp=sharing" target="_blank">[ Link al Drive con Certificados ]</a>
     </dd>
 </dl>
