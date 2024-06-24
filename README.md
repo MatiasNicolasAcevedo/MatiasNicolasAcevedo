@@ -67,7 +67,7 @@
     <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         🔸 <b>Oracle Next Education F2 T5 Back-end</b> - Certificado de Finalización. 
-        <a href="https://drive.google.com/file/d/1Smc1oKek2NdJYKxO0Cb53Y5M8xkKaAib/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
+        <a href="https://app.aluracursos.com/program/certificate/822f7ab7-f6bc-4a8d-9874-35e77bb8fc2c" target="_blank">[ Link Certificado ]</a>
     </dd>
     <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
