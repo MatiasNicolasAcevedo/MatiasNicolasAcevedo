@@ -3,6 +3,11 @@
 <h1 align="center"> ◽ Hola, Soy Matias Nicolas Acevedo 👋 ◽ </h1>
 
 <br>
+
+> [!IMPORTANT]
+> Te invito a ver mí porfolio 💼 <a href="https://porfolio-matias-acevedo.web.app/" target="_blank" rel="noopener">[ porfolio-matias-acevedo.web.app ]</a>
+
+<hr>
   
 <h3 align="left">✔ Acerca de Mí:</h3>
 
@@ -15,11 +20,6 @@
         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         Docker | Git | GitHub | HTML | CSS | Tailwind | JavaScript | React | Frontend 🔸 
         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         
-    </dd>
-    <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>Porfolio 💼</b> 
-        <a href="https://porfolio-matias-acevedo.web.app/" target="_blank" rel="noopener">[ Link a mí porfolio ]</a>
     </dd>
     <br>
     <dd>
