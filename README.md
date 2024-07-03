@@ -13,13 +13,13 @@
 
 <dl>
     <dd>
-        &nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         | Java Developer | Backend | Team Lead | Spring Boot | Spring Security | RESTful APIs | JWT | SQL | OOP |
-        <br>&nbsp;&nbsp;&nbsp;
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
          | MVC | JPA | Hibernate | Postman | Swagger | Deploy | Testing | JUnit | IntelliJ | Scrum | Agile | Kanban |
-        <br>&nbsp;&nbsp;&nbsp;
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         | Docker | Git | GitHub | HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Frontend |
-        <br>&nbsp;&nbsp;&nbsp;   
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </dd>
     <h3 align="left">✔ Acerca de Mí:</h3>
     <br>
