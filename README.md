@@ -100,7 +100,7 @@
 <dl>
     <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        🔸 Backend Developer | Team Lead | Frontend | Project Manager <b>No Country</b>.
+        🔸 Backend Developer | Team Lead | Frontend | Project Manager en <b>No Country</b>.
         <a href="https://www.nocountry.tech/" target="_blank">[ Link ]</a>
     </dd>
     <dd>
