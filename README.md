@@ -58,8 +58,8 @@
 <dl>
     <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🔸 <b>No Country</b> - Backend Developer. 
-        <a href="https://drive.google.com/file/d/1pBP8DDy3YxkhkTrMKPw0NL1bl7m4pzaD/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
+        🔸 <b>No Country</b> - 1st🥇 Hackathon por Justina💗. 
+        <a href="https://drive.google.com/file/d/1Q9sA04c0WOGyL2YTJOI-Abs2H7o7422W/view?usp=drive_link" target="_blank">[ Link Certificado ]</a>
     </dd>
    <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -100,8 +100,13 @@
 <dl>
     <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        🔸 BackEnd Developer | Team Lead | Frontend | <b>No Country</b>.
+        🔸 Backend Developer | Team Lead | Frontend | Project Manager <b>No Country</b>.
         <a href="https://www.nocountry.tech/" target="_blank">[ Link ]</a>
+    </dd>
+    <dd>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        🔸 Me encuentro en las primeras posiciones del <b>Talent Marketplace</b>.
+        <a href="https://www.nocountry.tech/talent-marketplace" target="_blank">[ Link ]</a>
     </dd>
 </dl>
 
