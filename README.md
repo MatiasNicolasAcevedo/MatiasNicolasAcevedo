@@ -9,7 +9,7 @@
 
 <hr>
   
-<h3 align="left">✔ Tecnologías / Habilidades🧠:</h3>
+<h3 align="left">✔ Tecnologías / Skills</h3>
 
 <div align="left">
         Java | Spring Boot | Spring Security | JWT | API REST | MVC |
@@ -20,25 +20,30 @@
         HTML | CSS | Bootstrap | Tailwind | JavaScript | TypeScript |
         React | React Router | React Hook Form | Vite | Axios
 </div>
+    
+<br>
     <h3 align="left">✔ Acerca de Mí:</h3>
-    <br>
     <dd>
         &nbsp;&nbsp;
         🔹 Busco oportunidades para desarrollar soluciones robustas y escalables con java y spring boot.
     </dd>
+    <br>
     <dd>
         &nbsp;&nbsp;
         🔹 He liderado equipos multidisciplinarios y multiculturales, creando MVPs de alto impacto.
     </dd>
+    <br>
     <dd>
         &nbsp;&nbsp;
         🔹 Mis fortalezas incluyen habilidades en backend, frontend, liderazgo y resolución de problemas.
     </dd>
+    <br>
     <dd>
         &nbsp;&nbsp;
         🔹 Mi experiencia previa en roles de atención al cliente, comerciante y emprendedor me ha otorgado una perspectiva única
         y habilidades interpersonales valiosas que aplico diariamente en mi trabajo, facilitando la comunicación efectiva, la escucha activa y la resolución de conflictos.
     </dd>
+    <br>
     <dd>
         &nbsp;&nbsp;
         🔹 Soy ordenado, dedicado, apasionado por la tecnología y disfruto el trabajo en equipo para llevar proyectos desde la concepción hasta la implementación exitosa.
