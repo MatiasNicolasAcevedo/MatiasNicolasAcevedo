@@ -1,6 +1,6 @@
 <image align="center" src="https://i.imgur.com/c9EhicP.png" alt="Banner Readme GitHub">
 
-<h1 align="center"> ◽ Hola, Soy Matias Nicolas Acevedo 👋 ◽ </h1>
+<h1 align="center"> ◽ Hola, Soy Matias👋. Java Developer, Full-Stack ◽ </h1>
 
 <br>
 
@@ -11,43 +11,37 @@
   
 <h3 align="left">✔ Tecnologías / Habilidades🧠:</h3>
 
-<dl>
-    <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        | Java Developer | Backend | Team Lead | Spring Boot | Spring Security | RESTful APIs | JWT | SQL | OOP |
-        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-         | MVC | JPA | Hibernate | Postman | Swagger | Deploy | Testing | JUnit | IntelliJ | Scrum | Agile | Kanban |
-        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        | Docker | Git | GitHub | HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Frontend |
-        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </dd>
+<div align="left">
+        Java | Spring Boot | Spring Security | JWT | API REST | MVC |
+        MySQL | PostgreSQL | POO | Java EE | JPA | Hibernate |
+        Flyway | Postman | Swagger | Render | Cloudinary | Testing |
+        JUnit | Mockito | IntelliJ | NetBeans | Eclipse | Agile | Scrum |
+        Kanban | Trello | Jira | Miro | Slack | Docker | Git | GitHub |
+        HTML | CSS | Bootstrap | Tailwind | JavaScript | TypeScript |
+        React | React Router | React Hook Form | Vite | Axios
+</div>
     <h3 align="left">✔ Acerca de Mí:</h3>
     <br>
     <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;
         🔹 Busco oportunidades para desarrollar soluciones robustas y escalables con java y spring boot.
     </dd>
     <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        🔹 He liderado equipos multidisciplinarios y multiculturales, creando MVPs exitosos.
+        &nbsp;&nbsp;
+        🔹 He liderado equipos multidisciplinarios y multiculturales, creando MVPs de alto impacto.
     </dd>
     <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;
         🔹 Mis fortalezas incluyen habilidades en backend, frontend, liderazgo y resolución de problemas.
     </dd>
     <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;
         🔹 Mi experiencia previa en roles de atención al cliente, comerciante y emprendedor me ha otorgado una perspectiva única
-        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        y habilidades interpersonales valiosas que aplico diariamente en mi trabajo, facilitando la comunicación efectiva, 
-        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        la escucha activa y la resolución de conflictos.
+        y habilidades interpersonales valiosas que aplico diariamente en mi trabajo, facilitando la comunicación efectiva, la escucha activa y la resolución de conflictos.
     </dd>
     <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        🔹 Soy ordenado, dedicado, apasionado por la tecnología y disfruto el trabajo en equipo para llevar proyectos desde la
-        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        concepción hasta la implementación exitosa.
+        &nbsp;&nbsp;
+        🔹 Soy ordenado, dedicado, apasionado por la tecnología y disfruto el trabajo en equipo para llevar proyectos desde la concepción hasta la implementación exitosa.
     </dd>
 </dl>
 
