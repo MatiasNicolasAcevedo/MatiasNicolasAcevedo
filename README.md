@@ -5,7 +5,7 @@
 <br>
 
 > [!IMPORTANT]
-> Te invito a ver mí porfolio 💼 <a href="https://matias-acevedo.web.app/" target="_blank" rel="noopener">[ Portfolio - Matias Acevedo ]</a>
+> Te invito a visitar mi página -> <a href="https://matias-acevedo.web.app/" target="_blank" rel="noopener"> https://matias-acevedo.web.app/ </a>
 
 <hr>
   
